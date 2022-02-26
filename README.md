@@ -41,7 +41,7 @@ and football ⚽
 
 #### Tools
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=Amazon%20AWS)&nbsp;
-![Azure](https://img.shields.io/badge/-Microsoft_Azure-05122A?style=flat&logo=Microsoft%20Azure)&nbsp;
+![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=Microsoft%20Azure)&nbsp;
 ![Airflow](https://img.shields.io/badge/-Airflow-05122A?style=flat&logo=Airflow)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
 ![Circle%20CI](https://img.shields.io/badge/-Circle_CI-05122A?style=flat&logo=Circle20CI)&nbsp;
