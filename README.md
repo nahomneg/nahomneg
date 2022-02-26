@@ -40,7 +40,7 @@ and football ⚽
 ![Cloud Firestore](https://img.shields.io/badge/-Cloud%20Firestore-05122A?style=flat&logo=Cloud%20Firestore)&nbsp;
 
 #### Tools
-![AWS](https://img.shields.io/badge/-Amazon_AWS-05122A?style=flat&logo=Amazon%20AWS)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=Amazon%20AWS)&nbsp;
 ![Azure](https://img.shields.io/badge/-Microsoft_Azure-05122A?style=flat&logo=Microsoft%20Azure)&nbsp;
 ![Airflow](https://img.shields.io/badge/-Airflow-05122A?style=flat&logo=Airflow)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
