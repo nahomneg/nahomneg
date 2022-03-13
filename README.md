@@ -59,3 +59,4 @@ and football ⚽
   <a href="mailto:nahomnegdem@gmail.com"><img src="https://img.shields.io/badge/-nahomnegdem@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eandualem" alt="eandualem" /> </p>
