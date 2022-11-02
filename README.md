@@ -5,7 +5,7 @@
 ### About Me 
 I am a Machine Learning Engineer with experience in full-stack development, creating data pipelines, feeding into deep-learning and machine-learning models, and deploying and maintaining solutions in production. 
 - 🔭 &nbsp;I’m currently working as a Data Scientist for a company in the Advertisment industry to produce data driven tools
-- 💬 &nbsp;Ask me about Python, Scikit-Learn and AWS
+- 💬 &nbsp;Ask me about Java, Spring Boot, Python, Angular, and AWS
 - 🎓 &nbsp;I have a Bachelor's Degree in Software Engineering from Addis Ababa University.
 - 🥅 &nbsp;2022 Goals: Contribute more to Open Source projects
 - ⚡ &nbsp; I love Dancing <img src="https://user-images.githubusercontent.com/61314902/155840111-c973f1a2-230e-40a9-821a-0dd25ba387c1.png"  width="20px">
