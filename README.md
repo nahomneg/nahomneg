@@ -1,6 +1,6 @@
 
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Nahom Negussie
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Nahom Demessie
 
 ### About Me 
 I am a Machine Learning Engineer with experience in full-stack development, creating data pipelines, feeding into deep-learning and machine-learning models, and deploying and maintaining solutions in production. 
