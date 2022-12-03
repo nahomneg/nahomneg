@@ -50,6 +50,7 @@ and football ⚽
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Identifiying customers who would subscribe to a term deposit](https://medium.com/analytics-vidhya/a-machine-learning-approach-to-identifying-customers-of-bank-of-portugal-who-would-subscribe-to-a-8bd04387aac2?source=user_profile---------0-------------------------------------2)
+
 [Spring Boot Microservices to build an Ecommerce Application](https://medium.com/@nahomnegdem/lets-build-a-gateway-service-for-a-microservices-based-ecommerce-application-59ba24ec9651?source=your_stories_page-------------------------------------)
 <!-- BLOG-POST-LIST:END -->
 
