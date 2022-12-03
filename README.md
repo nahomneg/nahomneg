@@ -3,7 +3,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Nahom Demessie
 
 ### About Me 
-Talented Full Stack Developer with a total of 2 years of hands-on experience, of which around a year and a half is Professional experience and 7 months of full time paid internships, developing and implementing enterprise level software and ML models. Streamline continuous integration and deployment by performing Unit tests, analysis, and CI/CD. Skilled in using technologies such as Java, SpringBoot, Angular, React, Node, Kubernetes, Kafka,Docker, JavaScript, Typescript, MySQL, and AWS.
+Talented Full Stack Developer with a total of 2 years of hands-on experience developing and implementing enterprise level software and ML models. Streamline continuous integration and deployment by performing Unit tests, analysis, and CI/CD. Skilled in using technologies such as Java, SpringBoot, Angular, React, Node, Kubernetes, Kafka,Docker, JavaScript, Typescript, MySQL, and AWS.
 - 🔭 &nbsp;I’m currently persuing my Master's Degree in Computer Science at MIU in IOWA,USA
 - 💬 &nbsp;Ask me about Java, Spring Boot, Python, Angular, and AWS
 - 🎓 &nbsp;I have a Bachelor's Degree in Software Engineering from Addis Ababa University.
