@@ -51,7 +51,12 @@ and football ⚽
 <!-- BLOG-POST-LIST:START -->
 - [Identifiying customers who would subscribe to a term deposit](https://medium.com/analytics-vidhya/a-machine-learning-approach-to-identifying-customers-of-bank-of-portugal-who-would-subscribe-to-a-8bd04387aac2?source=user_profile---------0-------------------------------------2)
 
-[Spring Boot Microservices to build an Ecommerce Application](https://medium.com/@nahomnegdem/lets-build-a-gateway-service-for-a-microservices-based-ecommerce-application-59ba24ec9651?source=your_stories_page-------------------------------------)
+- [Spring Boot Microservices to build an Ecommerce Application](https://medium.com/@nahomnegdem/spring-boot-microservices-to-build-an-ecommerce-application-12e05f58e895?source=your_stories_page-------------------------------------)
+- [Let’s Build a Gateway Service for a microservices based Ecommerce application](https://medium.com/@nahomnegdem/lets-build-a-gateway-service-for-a-microservices-based-ecommerce-application-59ba24ec9651?source=your_stories_page-------------------------------------)
+- [Let’s Build a Product Service for a microservices based Ecommerce application](https://medium.com/@nahomnegdem/lets-build-a-product-service-for-a-microservices-based-ecommerce-application-68d01b024334?source=your_stories_page-------------------------------------)
+- [Let’s Build a Payment Service for a microservices based Ecommerce application](https://medium.com/@nahomnegdem/lets-build-a-payment-service-for-a-microservices-based-ecommerce-application-f1e1daa8ed1d?source=your_stories_page-------------------------------------)
+- [Let’s Build a Bank Service for a microservices based Ecommerce application](https://medium.com/@nahomnegdem/lets-build-a-bank-service-for-a-microservices-based-ecommerce-application-747de56a4509?source=your_stories_page-------------------------------------)
+- [Let’s Build an Order Service for a microservices based Ecommerce application](https://medium.com/@nahomnegdem/lets-build-an-order-service-for-a-microservices-based-ecommerce-application-23fed4cc4886?source=your_stories_page-------------------------------------)
 <!-- BLOG-POST-LIST:END -->
 
 ## Where to find me
